@@ -9,6 +9,7 @@ This repository provides data giving country codes for mobility data in COVID-19
 # Overview of files in this repository
 * `country_code_mobility_apple.csv`: country codes for mobility data provided by Apple.
 * `country_code_mobility_google.csv`: country codes for mobility data provided by Google.
+* `example_country_code_mobility_google.R`: example of giving country codes to Google mobility data.
 
 
 # Description of columns in `country_code_mobility_apple.csv`
