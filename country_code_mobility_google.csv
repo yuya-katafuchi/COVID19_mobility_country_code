@@ -6,7 +6,6 @@ Argentina,ARG,AR
 Aruba,ABW,AW
 Australia,AUS,AU
 Austria,AUT,AT
-Bahamas,BHS,BS
 Bahrain,BHR,BH
 Bangladesh,BGD,BD
 Barbados,BRB,BB
@@ -29,7 +28,7 @@ Colombia,COL,CO
 Costa Rica,CRI,CR
 Côte d'Ivoire,CIV,CI
 Croatia,HRV,HR
-Czech Republic,CZE,CZ
+Czechia,CZE,CZ
 Denmark,DNK,DK
 Dominican Republic,DOM,DO
 Ecuador,ECU,EC
@@ -62,7 +61,7 @@ Jordan,JOR,JO
 Kazakhstan,KAZ,KZ
 Kenya,KEN,KE
 Kuwait,KWT,KW
-Kyrgyz Republic,KGZ,KG
+Kyrgyzstan,KGZ,KG
 Laos,LAO,LA
 Latvia,LVA,LV
 Lebanon,LBN,LB
@@ -79,7 +78,7 @@ Moldova,MDA,MD
 Mongolia,MNG,MN
 Morocco,MAR,MA
 Mozambique,MOZ,MZ
-Myanmar,MMR,MM
+Myanmar (Burma),MMR,MM
 Namibia,NAM,NA
 Nepal,NPL,NP
 Netherlands,NLD,NL
@@ -108,7 +107,7 @@ Saudi Arabia,SAU,SA
 Senegal,SEN,SN
 Serbia,SRB,RS
 Singapore,SGP,SG
-Slovak Republic,SVK,SK
+Slovakia,SVK,SK
 Slovenia,SVN,SI
 South Africa,ZAF,ZA
 South Korea,KOR,KR
@@ -120,6 +119,7 @@ Taiwan,TWN,TW
 Tajikistan,TJK,TJ
 Tanzania,TZA,TZ
 Thailand,THA,TH
+The Bahamas,BHS,BS
 Togo,TGO,TG
 Trinidad and Tobago,TTO,TT
 Turkey,TUR,TR
